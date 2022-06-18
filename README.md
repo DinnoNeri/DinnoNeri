@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Dinno Neri
+## Oiii! Eu sou Dinno Neri
 
 - Hoje estudando Frond-End
 
