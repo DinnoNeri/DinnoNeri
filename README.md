@@ -1,7 +1,7 @@
 ## Oiii! Eu sou Dinno Neri
 
-FrontEnd Developer
-Motion Design
+- FrontEnd Developer
+- Motion Design
 
 <div align="center">
   <a href="https://github.com/dinnoneri">
