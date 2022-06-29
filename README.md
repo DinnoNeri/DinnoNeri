@@ -1,6 +1,7 @@
 ## Oiii! Eu sou Dinno Neri
 
-- Hoje estudando Frond-End
+FrontEnd Developer
+Motion Design
 
 <div align="center">
   <a href="https://github.com/dinnoneri">
